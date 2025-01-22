@@ -1,12 +1,12 @@
  👋 👋
  🔭 I’m currently working on ... Modelling surface roughness.
 🌱 I’m currently learning ... Physics-informed neural network.
-👯 I’m looking to collaborate on ... high-speed CFD.
-🤔 I’m can help beginners with ... Programming skills and parallel computing using MPI
-💬 Ask me about ... Fluid Mechanics and Linux
-📫 How to reach me: ... chandankr94@outlook.com
-😄 Pronouns: ... Chan-dan
-⚡ Fun fact: ... I eat noodles with spoon :)
+👯 I’m looking to collaborate on ... High-speed CFD.
+🤔 I can help beginners with ... Programming skills and parallel computing.
+💬 Ask me about ... Fluid Mechanics and Linux.
+📫 How to reach me: ... chandankr94@outlook.com.
+😄 Pronouns: ... Chan-dan.
+⚡ Fun fact: ... I can eat noodles with a spoon. :)
 
 These are some of the work I do:
 
