@@ -1,7 +1,7 @@
  👋 👋
- 🔭 I’m currently working on ... Modelling surface roughness
-🌱 I’m currently learning ... Physics informed neural network
-👯 I’m looking to collaborate on ... high-speed CFD
+ 🔭 I’m currently working on ... Modelling surface roughness.
+🌱 I’m currently learning ... Physics-informed neural network.
+👯 I’m looking to collaborate on ... high-speed CFD.
 🤔 I’m can help beginners with ... Programming skills and parallel computing using MPI
 💬 Ask me about ... Fluid Mechanics and Linux
 📫 How to reach me: ... chandankr94@outlook.com
