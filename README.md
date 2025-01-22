@@ -1,18 +1,11 @@
 ## Hi there 👋
 
 
-Numerical Schlieren
-
-https://github.com/user-attachments/assets/f47b8e2a-ccfe-4760-8194-3de4ae2af9bd
-
-
-Acoustics
-
-https://github.com/user-attachments/assets/aa003b59-c3f3-4dcb-8e0a-dc01b375783d
 
 
 
-https://github.com/user-attachments/assets/104b9e86-7f26-4f43-9192-dde3ae0304bd
+
+https://github.com/user-attachments/assets/a5eb300d-d15b-4530-b2f6-63e507bfad55
 
 
 
