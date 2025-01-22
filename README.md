@@ -7,6 +7,14 @@
 
 https://github.com/user-attachments/assets/a5eb300d-d15b-4530-b2f6-63e507bfad55
 
+canAutoplay.video().then(({result}) => {
+  if (result === true) {
+    // Can autoplay
+  } else {
+    // Can not autoplay
+  }
+})
+
 
 
 
