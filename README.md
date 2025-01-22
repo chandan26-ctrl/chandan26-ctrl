@@ -15,6 +15,8 @@ These are some of the work I do:
 
 ![forcedtranstion](https://github.com/user-attachments/assets/da6a4a6e-df6d-45fc-89a2-6a658ecdf6db)
 
+![schlieren_illinois](https://github.com/user-attachments/assets/c5e807dd-d684-4c81-8f53-3cbec469a312)
+
 ![acosuticOverSquareBlock-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6f123bc0-ceaf-4a33-915e-19a3ba02beb6)
 
 
