@@ -4,16 +4,8 @@
 
 
 
+![acosuticOverSquareBlock-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6f123bc0-ceaf-4a33-915e-19a3ba02beb6)
 
-https://github.com/user-attachments/assets/a5eb300d-d15b-4530-b2f6-63e507bfad55
-
-canAutoplay.video().then(({result}) => {
-  if (result === true) {
-    // Can autoplay
-  } else {
-    // Can not autoplay
-  }
-})
 
 
 
