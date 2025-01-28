@@ -9,6 +9,10 @@
 😄 Pronouns: ... Chan-dan.
 ⚡ Fun fact: ... I can eat noodles with a spoon. :)
 
+click here to see my published work
+GoogleScholar: https://scholar.google.co.in/citations?hl=en&user=RXrUdk0AAAAJ
+ResearchGate: https://www.researchgate.net/profile/Chandan-Kumar-97
+
 These are some of the work I do:
 
 ![STABILITY](https://github.com/user-attachments/assets/aa070cba-7edf-45cd-a084-aab88e4deb7c)
